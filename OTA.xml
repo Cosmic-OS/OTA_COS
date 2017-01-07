@@ -28,6 +28,23 @@
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-           </kenzo>
+		</kenzo>
     </Stable>
+    <Stable>
+	    <bullhead>
+		    <Filename>Cosmic-OS_bullhead_7.1.1_20170107_1.2-OFFICIAL.zip</Filename>
+		    <RomUrl
+			    id="rom"
+			    title="ROM"
+			    description="Download Cosmic-OS builds">https://cosmic-os.github.io/downloads.html</RomUrl>
+		    <ChangelogUrl
+			    id="changelog"
+		     	    title="Changelog"
+		            description="View Changelog">>https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+	  	    <OpenGappsUrl
+            			id="open_gapps"
+            			title="Open GApps"
+            			description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	    </bullhead>
+	</Stable>
 </SlimOTA>
