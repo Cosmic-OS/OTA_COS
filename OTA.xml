@@ -13,21 +13,4 @@
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</oneplus3>
     </Stable>
-        <Stable>
-        <kenzo>
-            <Filename>Cosmic-OS_kenzo_20170102_1.2-OFFICIAL.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download Cosmic-OS"></RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
-            	id="open_gapps"
-            	title="Open"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-           </kenzo>
-    </Stable>
 </SlimOTA>
