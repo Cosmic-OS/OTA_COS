@@ -15,7 +15,7 @@
     </Stable>
         <Stable>
         <kenzo>
-            <Filename>Cosmic-OS_kenzo1_20170102_1.2-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_kenzo_20170102_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -28,6 +28,6 @@
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-           </kenzo
+           </kenzo>
     </Stable>
 </SlimOTA>
