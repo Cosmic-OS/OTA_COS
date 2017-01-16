@@ -13,7 +13,7 @@
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</oneplus3>
 	    
-       <kenzo>
+        <kenzo>
             <Filename>Cosmic-OS_kenzo_7.1.1_20170115_1.2-OFFICIAL</Filename>
             <RomUrl
                 id="rom"
@@ -23,6 +23,17 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-      </kenzo>
+        </kenzo>
+        <lettuce>
+            <Filename>Cosmic-OS_lettuce_7.1.1_20170115_1.2-OFFICIAL</Filename>
+	    <RomUrl
+		id="rom"
+		title="Rom"
+		description="Download Cosmic-OS Latest Build">https://www.androidfilehost.com/?fid=529152257862695843</RomUrl>
+	    <OpenGappsUrl
+		id="open_gapps"
+		title="Open Gapps"
+		description="Download Latest Open Gapps">http://opengapps.org</OpenGappsUrl>
+        </lettuce>
     </Stable>
 </SlimOTA>
