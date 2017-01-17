@@ -35,5 +35,16 @@
 		title="Open Gapps"
 		description="Download Latest Open Gapps">http://opengapps.org</OpenGappsUrl>
         </lettuce>
+	    <herolte>
+            <Filename>Cosmic-OS_herolte_7.1.1_20170117_1.2-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=457095661767130590</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</herolte>
     </Stable>
 </SlimOTA>
