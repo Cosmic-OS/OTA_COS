@@ -8,8 +8,8 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically 
 #
 ota_url=https://raw.githubusercontent.com/Cosmic-OS/OTA_COS/n7.1/OTA.xml
-release_type= Stable
-device_name= ro.cos.device
+release_type=Stable
+device_name=ro.cos.device
 
 #
 # VERSION
