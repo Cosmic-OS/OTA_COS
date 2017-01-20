@@ -45,5 +45,16 @@
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</herolte>
+         <titan>
+            <Filename>Cosmic-OS_titan_7.1.1_20170120_1.2-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=745425885120701810</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</titan>
     </Stable>
 </SlimOTA>
