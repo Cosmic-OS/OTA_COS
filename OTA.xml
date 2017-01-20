@@ -43,7 +43,7 @@
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Download Open latest GApps">http://opengapps.org/?arch=arm64&amp;api=71&amp;variant=aroma</OpenGappsUrl>
 	</herolte>
          <titan>
             <Filename>Cosmic-OS_titan_7.1.1_20170120_1.2-OFFICIAL.zip</Filename>
