@@ -43,7 +43,7 @@
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Download Open latest GApps">http://opengapps.org/?arch=arm64&api=71&variant=aroma</OpenGappsUrl>
 	</herolte>
     </Stable>
 </SlimOTA>
