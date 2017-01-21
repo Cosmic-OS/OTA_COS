@@ -45,5 +45,16 @@
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</herolte>
+	<vs985>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Cosmic OS Latest builds">null</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</vs985>
     </Stable>
 </SlimOTA>
