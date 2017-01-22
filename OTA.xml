@@ -6,29 +6,29 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cosmic OS Latest builds">http://bit.ly/2jM4n4a</RomUrl>             
+                description="Download latest Cosmic OS build">http://bit.ly/2jM4n4a</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</OnePlus3>	    
         <kenzo>
             <Filename>Cosmic-OS_kenzo_7.1.1_20170117_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=529152257862696198</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=529152257862696198</RomUrl>             
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
         </kenzo>
         <lettuce>
             <Filename>Cosmic-OS_lettuce_7.1.1_20170115_1.2-OFFICIAL</Filename>
 	    <RomUrl
 		id="rom"
 		title="Rom"
-		description="Download Cosmic-OS Latest Build">https://www.androidfilehost.com/?fid=529152257862695843</RomUrl>
+		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=529152257862695843</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
 		title="Open Gapps"
@@ -39,7 +39,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=745425885120701904</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120701904</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
@@ -50,18 +50,18 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=745425885120701810</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120701810</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download Open latest GApps">http://opengapps.org?arch=arm&amp;api=71&amp;variant=pico</OpenGappsUrl>
+            	description="Download latest Open GApps">http://opengapps.org?arch=arm&amp;api=71&amp;variant=pico</OpenGappsUrl>
 	</titan>
 	<vs985>
             <Filename>Cosmic-OS_vs985_7.1.1_20170122_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Cosmic OS Latest builds">https://www.androidfilehost.com/?fid=529152257862697468</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=529152257862697468</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Dynamic Gapps"
