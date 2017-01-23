@@ -67,5 +67,16 @@
             	title="Dynamic Gapps"
             	description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</vs985>
+<jalebi>
+            <Filename>Cosmic-OS_jalebi_7.1.1_20170122_1.3-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest Cosmic OS build">https://basketbuild.com/devs/MSF_Jarvis/jalebi/Cosmic-OS</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org/?arch=arm&amp;api=25&amp;variant=nano</OpenGappsUrl>
+	   </jalebi>
     </Stable>
 </SlimOTA>
