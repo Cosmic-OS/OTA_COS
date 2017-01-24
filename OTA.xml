@@ -5,7 +5,7 @@
             <Filename>Cosmic-OS_oneplus3_7.1.1_20170113_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">http://bit.ly/2jM4n4a</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
@@ -16,7 +16,7 @@
             <Filename>Cosmic-OS_kenzo_7.1.1_20170122_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=385035244224414750</RomUrl>             
             <OpenGappsUrl
             	id="open_gapps"
@@ -27,7 +27,7 @@
             <Filename>Cosmic-OS_lettuce_7.1.1_20170115_1.2-OFFICIAL</Filename>
 	    <RomUrl
 		id="rom"
-		title="Rom"
+		title="Download ROM"
 		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=529152257862695843</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
@@ -38,7 +38,7 @@
             <Filename>Cosmic-OS_herolte_7.1.1_20170120_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120701904</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
@@ -49,7 +49,7 @@
             <Filename>Cosmic-OS_titan_7.1.1_20170120_1.2-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120701810</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
@@ -60,7 +60,7 @@
             <Filename>Cosmic-OS_vs985_7.1.1_20170122_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=529152257862697468</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
@@ -71,7 +71,7 @@
             <Filename>Cosmic-OS_jalebi_7.1.1_20170122_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">https://basketbuild.com/devs/MSF_Jarvis/jalebi/Cosmic-OS</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
@@ -82,7 +82,7 @@
             <Filename>Cosmic-OS_mako_7.1.1_20170123_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download ROM"
                 description="Download latest Cosmic OS build">http://www.mediafire.com/file/hgvqh8g8h7aoj6t/Cosmic-OS_mako_7.1.1_20170123_1.3-OFFICIAL.zip</RomUrl>             
               <OpenGappsUrl
               id="open_gapps"
