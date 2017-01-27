@@ -79,11 +79,11 @@
             	description="Download Open latest GApps">http://opengapps.org/?arch=arm&amp;api=25&amp;variant=nano</OpenGappsUrl>
 	   </jalebi>
 <mako>
-            <Filename>Cosmic-OS_mako_7.1.1_20170124_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_mako_7.1.1_20170127_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=529152257862697798</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634741953</RomUrl>             
               <OpenGappsUrl
               id="open_gapps"
               title="Open Gapps"
