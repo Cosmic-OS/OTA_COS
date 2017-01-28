@@ -24,11 +24,11 @@
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
         </kenzo>
         <lettuce>
-            <Filename>Cosmic-OS_lettuce_7.1.1_20170124_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_lettuce_7.1.1_20170127_1.3-OFFICIAL.zip</Filename>
 	    <RomUrl
 		id="rom"
 		title="Download ROM"
-		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=817550096634741099</RomUrl>
+		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=745425885120703646</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
 		title="Open Gapps"
