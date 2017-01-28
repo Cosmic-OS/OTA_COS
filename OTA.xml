@@ -67,7 +67,7 @@
             	title="Dynamic Gapps"
             	description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</vs985>
-	    <mako>
+	<mako>
             <Filename>Cosmic-OS_mako_7.1.1_20170123_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
@@ -77,6 +77,17 @@
               id="open_gapps"
               title="Open Gapps"
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
-  </mako>
+	</mako>
+	<bacon>
+            <Filename>Cosmic-OS_bacon_7.1.1_20170127_1.3-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=673368273298927059</RomUrl> 
+              <OpenGappsUrl
+              id="open_gapps"
+              title="Open Gapps"
+              description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	</bacon>
     </Stable>
 </SlimOTA>
