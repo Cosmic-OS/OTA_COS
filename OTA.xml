@@ -13,7 +13,7 @@
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</OnePlus3>	    
         <kenzo>
-            <Filename> Cosmic-OS_kenzo_7.1.1_20170129_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_kenzo_7.1.1_20170129_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
