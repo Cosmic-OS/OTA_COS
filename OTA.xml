@@ -120,7 +120,7 @@
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
-            	description="Download latest Open GApps">http://opengapps.org/?arch=arm&api=7.1&variant=nano</OpenGappsUrl>
+            	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
 	</onyx>
 	    
     </Stable>
