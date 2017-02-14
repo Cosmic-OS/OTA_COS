@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <OnePlus3>
-            <Filename>Cosmic-OS_oneplus3_7.1.1_20170113_1.2-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_oneplus3_7.1.1_20170210_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">http://bit.ly/2jM4n4a</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634745233</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
@@ -24,11 +24,11 @@
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
         </kenzo>
         <lettuce>
-            <Filename>Cosmic-OS_lettuce_7.1.1_20170127_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_lettuce_7.1.1_20170210_1.3-OFFICIAL.zip</Filename>
 	    <RomUrl
 		id="rom"
 		title="Download ROM"
-		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=745425885120703646</RomUrl>
+		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=457095661767136274</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
 		title="Open Gapps"
@@ -68,11 +68,11 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</mako>
 	<bacon>
-            <Filename>Cosmic-OS_bacon_7.1.1_20170209_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_bacon_7.1.1_20170213_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634744793</RomUrl>
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/bacon/Cosmic-OS_bacon_7.1.1_20170213_1.3-OFFICIAL.zip</RomUrl> 
               <OpenGappsUrl
               id="open_gapps"
               title="Open Gapps"
@@ -90,11 +90,11 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</osprey>
 	<OnePlus2>
-            <Filename>Cosmic-OS_oneplus2_7.1.1_20170209_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_oneplus2_7.1.1_20170212_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120706899</RomUrl>
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767136795</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
@@ -112,16 +112,26 @@
             	description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</d855>
 	<onyx>
-            <Filename>Cosmic-OS_onyx_7.1.1_20170207_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_onyx_7.1.1_20170210_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767135744</RomUrl>
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767136362</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
 	</onyx>
-	    
+	<bullhead>
+		<Filename>Cosmic-OS_bullhead_7.1.1_20170207_1.3-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://dl.pixelrom.xyz/releases/Cosmic%20OS/Cosmic-OS_bullhead_7.1.1_20170207_1.3-OFFICIAL.zip</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
+	</bullhead>
     </Stable>
 </SlimOTA>
