@@ -110,7 +110,18 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
-	</OnePlus2>	    
+	</OnePlus2>	
+	<d802>
+            <Filename>Cosmic-OS_d802_7.1.1_20170219_1.3-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://drive.google.com/file/d/0B8IPbN_Rg82dV1lid0N0dTNEWFk/view?usp=drivesdk</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
+	</d802>
 	<d855>
             <Filename>Cosmic-OS_d855_7.1.1_20170218_1.3-OFFICIAL.zip</Filename>
             <RomUrl
