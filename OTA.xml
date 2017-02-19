@@ -123,11 +123,11 @@
             	description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</d855>
 	<onyx>
-            <Filename>Cosmic-OS_onyx_7.1.1_20170214_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_onyx_7.1.1_20170218_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/onyx/Cosmic-OS_onyx_7.1.1_20170214_1.3-OFFICIAL.zip/download</RomUrl>
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/onyx/Cosmic-OS_onyx_7.1.1_20170218_1.3-OFFICIAL.zip/download</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
