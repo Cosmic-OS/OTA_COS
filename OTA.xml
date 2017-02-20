@@ -171,7 +171,7 @@
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klte_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klte_7.1.1_20170220_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
@@ -182,7 +182,7 @@
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltespr_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltespr_7.1.1_20170220_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
@@ -193,7 +193,7 @@
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klteduos_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klteduos_7.1.1_20170220_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
