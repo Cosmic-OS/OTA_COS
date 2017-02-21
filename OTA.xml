@@ -167,33 +167,33 @@
 		 description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</bullhead>
 	<klte>
-		<Filename>Cosmic-OS_klte_7.1.1_20170217_1.3-OFFICIAL.zip</Filename>
+		<Filename>Cosmic-OS_klte_7.1.1_20170221_1.3-OFFICIAL.zip</Filename>
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klte_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klte_7.1.1_20170221_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
 		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
 	</klte>  
 	<kltespr>
-		<Filename>Cosmic-OS_kltespr_7.1.1_20170217_1.3-OFFICIAL.zip</Filename>
+		<Filename>Cosmic-OS_kltespr_7.1.1_20170221_1.3-OFFICIAL.zip</Filename>
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltespr_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltespr_7.1.1_20170221_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
 		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
 	</kltespr>
 	<klteduos>
-		<Filename>Cosmic-OS_klteduos_7.1.1_20170217_1.3-OFFICIAL.zip</Filename>
+		<Filename>Cosmic-OS_klteduos_7.1.1_20170221_1.3-OFFICIAL.zip</Filename>
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klteduos_7.1.1_20170217_1.3-OFFICIAL.zip/download</RomUrl>
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klteduos_7.1.1_20170221_1.3-OFFICIAL.zip/download</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
