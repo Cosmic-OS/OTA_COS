@@ -28,7 +28,7 @@
 	    <RomUrl
 		id="rom"
 		title="Download ROM"
-		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=457095661767136274</RomUrl>
+		description="Download latest Cosmic-OS Build">https://sourceforge.net/projects/cosmic-os/files/lettuce/Cosmic-OS_lettuce_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
 		title="Open Gapps"
