@@ -156,11 +156,11 @@
             	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
 	</onyx>
 	<bullhead>
-		<Filename>Cosmic-OS_bullhead_7.1.1_20170227_1.4-OFFICIAL.zip</Filename>
+		<Filename>Cosmic-OS_bullhead_7.1.1_20170228_1.4-OFFICIAL.zip</Filename>
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://dl.pixelrom.xyz/releases/Cosmic%20OS/Cosmic-OS_bullhead_7.1.1_20170227_1.4-OFFICIAL.zip</RomUrl>
+		 description="Download latest Cosmic OS build">https://dl.pixelrom.xyz/releases/Cosmic%20OS/Cosmic-OS_bullhead_7.1.1_20170228_1.4-OFFICIAL1.zip</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
