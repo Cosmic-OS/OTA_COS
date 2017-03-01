@@ -79,11 +79,11 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</mako>
 	<bacon>
-            <Filename>Cosmic-OS_bacon_7.1.1_20170217_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_bacon_7.1.1_20170301_1.4-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/bacon/Cosmic-OS_bacon_7.1.1_20170217_1.3-OFFICIAL.zip</RomUrl> 
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/bacon/Cosmic-OS_bacon_7.1.1_20170301_1.4-OFFICIAL.zip</RomUrl> 
               <OpenGappsUrl
               id="open_gapps"
               title="Open Gapps"
