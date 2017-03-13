@@ -220,6 +220,28 @@
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
 		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
-	</klteduos>     
+	</klteduos>
+	<j5ltexx>
+		<Filename>Cosmic-OS_j5ltexx_7.1.1_20170312_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=673368273298937980</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</j5ltexx>    
+	<j5nltexx>
+		<Filename>Cosmic-OS_j5nltexx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634752906</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</j5nltexx>    
     </Stable>
 </SlimOTA>
