@@ -145,11 +145,11 @@
             	description="Download latest Open GApps">http://opengapps.org/?arch=arm64&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
 	</h815>
 	<onyx>
-            <Filename>Cosmic-OS_onyx_7.1.1_20170301_1.4-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_onyx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/onyx/Cosmic-OS_onyx_7.1.1_20170301_1.4-OFFICIAL.zip/download</RomUrl>
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/onyx/Cosmic-OS_onyx_7.1.1_20170313_1.4-OFFICIAL.zip/download</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
