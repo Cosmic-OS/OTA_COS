@@ -28,23 +28,34 @@
 	    <RomUrl
 		id="rom"
 		title="Download ROM"
-		description="Download latest Cosmic-OS Build">https://www.androidfilehost.com/?fid=457095661767136274</RomUrl>
+		description="Download latest Cosmic-OS Build">https://sourceforge.net/projects/cosmic-os/files/lettuce/Cosmic-OS_lettuce_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
 	    <OpenGappsUrl
 		id="open_gapps"
 		title="Open Gapps"
 		description="Download Latest Open Gapps">http://opengapps.org/?arch=arm64&amp;api=25&amp;variant=nano</OpenGappsUrl>
         </lettuce>
 	    <herolte>
-            <Filename>Cosmic-OS_herolte_7.1.1_20170202_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_herolte_7.1.1_20170218_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634743314</RomUrl>             
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767138503</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org/?arch=arm64&amp;api=71&amp;variant=aroma</OpenGappsUrl>
 	</herolte>
+	    <hero2lte>
+            <Filename>Cosmic-OS_hero2lte_7.1.1_20170218_1.3-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=817550096634747497</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org/?arch=arm64&amp;api=71&amp;variant=aroma</OpenGappsUrl>
+	</hero2lte>
          <titan>
             <Filename>Cosmic-OS_titan_7.1.1_20170208_1.3-OFFICIAL.zip</Filename>
             <RomUrl
@@ -68,11 +79,11 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</mako>
 	<bacon>
-            <Filename>Cosmic-OS_bacon_7.1.1_20170213_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_bacon_7.1.1_20170310_1.4-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/bacon/Cosmic-OS_bacon_7.1.1_20170213_1.3-OFFICIAL.zip</RomUrl> 
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/bacon/Cosmic-OS_bacon_7.1.1_20170310_1.4-OFFICIAL.zip</RomUrl>
               <OpenGappsUrl
               id="open_gapps"
               title="Open Gapps"
@@ -90,48 +101,147 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</osprey>
 	<OnePlus2>
-            <Filename>Cosmic-OS_oneplus2_7.1.1_20170212_1.3-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_oneplus2_7.1.1_20170312_1.4-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767136795</RomUrl>
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120714443</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
-	</OnePlus2>	    
-	<d855>
-            <Filename>Cosmic-OS_d855_7.1.1_20170114_1.2-OFFICIAL.zip</Filename>
+	</OnePlus2>	
+	<d802>
+            <Filename>Cosmic-OS_d802_7.1.1_20170219_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://drive.google.com/file/d/0B8IPbN_Rg82dRmxOSXpJenp3Smc/view?usp=sharing</RomUrl>             
+                description="Download latest Cosmic OS build">https://drive.google.com/file/d/0B8IPbN_Rg82dV1lid0N0dTNEWFk/view?usp=drivesdk</RomUrl>             
               <OpenGappsUrl
             	id="open_gapps"
-            	title="Dynamic Gapps"
-            	description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
-	</d855>
-	<onyx>
-            <Filename>Cosmic-OS_onyx_7.1.1_20170210_1.3-OFFICIAL.zip</Filename>
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
+	</d802>
+	<d855>
+            <Filename>Cosmic-OS_d855_7.1.1_20170218_1.3-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767136362</RomUrl>
+                description="Download latest Cosmic OS build">https://drive.google.com/file/d/0B8IPbN_Rg82dN0ozbWRlMEhDRTg/view?usp=drivesdk</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
+	</d855>
+	<h815>
+            <Filename>Cosmic-OS_h815_7.1.1_20170219_1.3-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://drive.google.com/file/d/0B8IPbN_Rg82dejJtb3NZM09oRlE/view?usp=sharing</RomUrl>             
+              <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/?arch=arm64&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
+	</h815>
+	<onyx>
+            <Filename>Cosmic-OS_onyx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/onyx/Cosmic-OS_onyx_7.1.1_20170313_1.4-OFFICIAL.zip/download</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nano</OpenGappsUrl>
 	</onyx>
 	<bullhead>
-		<Filename>Cosmic-OS_bullhead_7.1.1_20170207_1.3-OFFICIAL.zip</Filename>
+		<Filename>Cosmic-OS_bullhead_7.1.1_20170228_1.4-OFFICIAL.zip</Filename>
 		<RomUrl
 		 id="rom"
 		 title="Download ROM"
-		 description="Download latest Cosmic OS build">https://dl.pixelrom.xyz/releases/Cosmic%20OS/Cosmic-OS_bullhead_7.1.1_20170207_1.3-OFFICIAL.zip</RomUrl>
+		 description="Download latest Cosmic OS build">https://dl.pixelrom.xyz/releases/Cosmic%20OS/Cosmic-OS_bullhead_7.1.1_20170228_1.4-OFFICIAL1.zip</RomUrl>
 		<OpenGappsUrl
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
 		 description="Download latest Dynamic GApps">https://www.androidfilehost.com/?fid=529152257862697269</OpenGappsUrl>
 	</bullhead>
+	<klte>
+		<Filename>Cosmic-OS_klte_7.1.1_20170226_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klte_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</klte> 
+	 <kltevzw>
+		<Filename>Cosmic-OS_kltevzw_7.1.1_20170226_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltevzw_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</kltevzw>
+	 <kltedv>
+		<Filename>Cosmic-OS_kltedv_7.1.1_20170226_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltedv_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</kltedv>   
+	<kltespr>
+		<Filename>Cosmic-OS_kltespr_7.1.1_20170226_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_kltespr_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</kltespr>
+	<klteduos>
+		<Filename>Cosmic-OS_klteduos_7.1.1_20170226_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/klte/Cosmic-OS_klteduos_7.1.1_20170226_1.4-OFFICIAL.zip/download</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</klteduos>
+	<j5ltexx>
+		<Filename>Cosmic-OS_j5ltexx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=457095661767144440</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</j5ltexx>    
+	<j5nltexx>
+		<Filename>Cosmic-OS_j5nltexx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
+		<RomUrl
+		 id="rom"
+		 title="Download ROM"
+		 description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=673368273298938397</RomUrl>
+		<OpenGappsUrl
+		 id="open_gapps"
+	 	 title="Dynamic GApps"
+		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
+	</j5nltexx>    
     </Stable>
 </SlimOTA>
