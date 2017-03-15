@@ -101,11 +101,11 @@
               description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 	</osprey>
 	<OnePlus2>
-            <Filename>Cosmic-OS_oneplus2_7.1.1_20170312_1.4-OFFICIAL.zip</Filename>
+            <Filename>Cosmic-OS_oneplus2_7.1.1_20170316_1.4-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download ROM"
-                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120714443</RomUrl>
+                description="Download latest Cosmic OS build">https://www.androidfilehost.com/?fid=745425885120715406</RomUrl>
               <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
