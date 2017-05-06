@@ -231,7 +231,18 @@
 		 id="open_gapps"
 	 	 title="Dynamic GApps"
 		 description="Download latest Open GApps">http://opengapps.org/?arch=arm&amp;api=7.1&amp;variant=nan</OpenGappsUrl>
-	</j5ltexx>    
+	</j5ltexx>
+	 <a6000>
+            <Filename>Cosmic-OS_a6000_7.1.2_20170505_1.5-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download ROM"
+                description="Download latest Cosmic OS build">https://sourceforge.net/projects/cosmic-os/files/a6000/Cosmic-OS_a6000_7.1.2_20170504_1.5-OFFICIAL.zip/download</RomUrl>             
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+        </a6000>       
 	<j5nltexx>
 		<Filename>Cosmic-OS_j5nltexx_7.1.1_20170313_1.4-OFFICIAL.zip</Filename>
 		<RomUrl
